@@ -10,7 +10,7 @@ const plants = [
     imgUrl:
       "https://images.unsplash.com/photo-1596547612397-1432a7a7d37d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
     name: "Ficus lyara",
-    dob: "2/11/08",
+    dob: "2/17/08",
     dow: "21/3/21",
   },
   {
